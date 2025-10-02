@@ -18,7 +18,7 @@ Check out the live website here:
 **Landing Page**
 Get a quick glance at the modern UI, smooth animations, and interactive experience! 💫
 
-![Landing Page Screenshot](Screenshot.png)
+![Landing Page Screenshot](./Screenshot 2025-10-02 101302.png)
 
 ---
 
