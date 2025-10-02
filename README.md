@@ -18,7 +18,7 @@ Check out the live website here:
 **Landing Page**
 Get a quick glance at the modern UI, smooth animations, and interactive experience! 💫
 
-![Landing Page Screenshot](./Screenshot 2025-10-02 101302.png)
+![Landing Page Screenshot](https://github.com/Ruusheka/Estate/blob/main/Screenshot%202025-10-02%20101302.png?raw=true)
 
 ---
 
@@ -74,7 +74,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser and dive in!
 
 Made with ❤️ by **Ruusheka Akilavarshini**
 
-[🌐 Portfolio](https://ruusheka.netlify.app) | [🐦 Twitter](https://twitter.com/Ruusheka) | [💼 LinkedIn](https://www.linkedin.com/in/ruusheka-akilavarshini/)
+[🌐 Portfolio](https://ruusheka.netlify.app) | [💼 LinkedIn](https://www.linkedin.com/in/ruusheka-akilavarshini/)
 
 ---
 
